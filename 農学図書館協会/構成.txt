@@ -1,0 +1,97 @@
+# title
+「日本におけるオープンアクセスの進展と課題」（仮題）
+
+# 概略
+海外の状況は、ぜひ、日本の状況との比較で、触れていただけますでしょうか。そのほうが、現在の日本での進展状況がより明確になると思います。また、促進化事業は公的資金での論文のオープン化が中心のようですが、促進化事業との関連でオープンデータの状況についても触れていただけますでしょうか。また、実際の記事の内容で、ご相談がありましたらどうぞご遠慮なくご連絡ください。
+
+# 構成概要
+- 10000字程度
+- 図表写真は250字換算
+- Wordまたはプレインテキスト
+
+# 参考
+## 報告
+- 会誌219号 学術情報のオープンアクセスに関する国内の動向（南山 泰之）; アクセス不可
+- 会誌218号 【第131回農学図書館情報セミナー報告】「大学図書館をめぐる最新動向を探る　～オープンアクセス加速化事業について」（海野 かおり）; アクセス不可
+- 会誌216号 日本におけるオープンアクセス政策の概要と国際農林水産業研究センターの取り組み：即時オープンアクセスの実現へ向けて（林 賢紀）; アクセス可
+- 会誌209号 【海外図書館の最新動向　第27回】進化を続ける米国国立農学図書館のオープンアクセス情報（棚橋 佳子）; アクセス可
+- 会誌189号 Open Access時代の図書館サービス（笠間 和喜）; アクセス可
+- https://arxiv.org/abs/1910.11568?utm_source=chatgpt.com オープンアクセス種別の分類の混乱ぶりを示したもの
+- https://www8.cao.go.jp/cstp/oa_houshin_setsumei.pdf 日本の学術論文等のオープンアクセス政策について（内閣府 科学技術・イノベーション推進事務局）
+- https://www8.cao.go.jp/cstp/kenkyudx.html 研究DX -オープンアクセス-
+- https://www.lib.niigata-u.ac.jp/openaccess/wp-content/uploads/sites/4/2025/07/houkoku_honbun.pdf オープンアクセス加速化事業 成果報告：新潟大学
+- https://www.mext.go.jp/content/20240705-mxt_jyohoka01-000036819_1.pdf オープンアクセス加速化事業 採択機関一覧
+
+## データ
+- google books ngram : https://www.google.com/search?q=%22open%20access%22&tbm=bks&tbs=cdr:1,cd_min:1800,cd_max:1810&lr=lang_en
+-- London; Being an Accurate History and Description of the British Metropolis and Its Neighbourhood. 1806年に確認、現在の意味（文献やリソースへのアクセス）でなくより一般的な用法に見える。1800年代のの他の文献にも"open access"は見られるが、地域や領域へのアクセシビリティに関する用法である。
+- https://www.google.co.jp/books/edition/The_Holy_Bible/zRBMAAAAYAAJ?hl=en&gbpv=0
+-- 一部の聖書にも見られる。Union Theological Seminary 蔵のイメージ、出エジプト記に"open access"が見られるが、特別な含意はないと考えられる（"access"がすでに神へ近づくことを意味しており、その形容として"open"が付与されたと見るべき）。
+
+## イベント
+- Budapest Open Access Initiative (2002)
+- Berlin Declaration (2003)
+- G7仙台科学技術大臣会合(2023)
+- オープンアクセス加速化事業 https://www.mext.go.jp/b_menu/boshu/detail/1421775_00008.htm
+- arXiv : コーネル大学から離脱
+- Plan S : 終了
+
+## 組織
+- COAR
+- JPCOAR
+
+## サービス
+- NII OSモニター
+-- https://osm.nii.ac.jp/
+-- https://current.ndl.go.jp/car/274539
+
+## 関連
+- FAIR
+
+# 本文構成案
+日本におけるオープンアクセスの進展と課題
+
+- はじめに
+
+- 世界におけるオープンアクセスの動向
+　世界的に見るオープンアクセスにかかるイベントは、本誌189号「Open Access 時代の図書館サービス」によくまとまっている。なかでも、"オープンアクセス"のコンセプトが明確にされた声明としては Budapest Open Access Initiative がある。さらにこれを含む３つの声明 Three Defining Statements on Open Access [1]が最も有名なものとして挙げられる。以下これらを簡単に紹介する。
+-- Budapest Open Access Initiative (2002)
+-- Bethesda Statement on Open Access Publishing (2003)
+-- Berlin Declaration (2003)
+-- G7科学技術大臣会合(2015~)
+--- G7仙台科学技術大臣会合(2023)
+
+- オープンアクセスの定義と分類の整理
+　ここで、一旦"オープンアクセス"という言葉の定義について整理しておく。
+なぜなら、Taubertらが指摘する[2]ように、すでにさまざまな混乱が生じているからである。
+結論を先に述べれば、ここで整理したことにより、より良い用法が導かれることはないが、十分な留意が必要であることの理解となれば幸いである。
+まず、本稿におけるオープンアクセスの本来の定義としては Budapest Open Access Initiative に求めることができ、インターネット公開されている文面[3]によれば、第1段落ではその理念が主に語られ、第2段落冒頭でそれが実現されている状態を"open access"と定義（呼称）していると読み取れる。
+次に、現在見られる用法とその視点を表1に示す。
+この表が示すように、たとえばゴールドOA/グリーンOAはopen accessの状態への経路のことであり、ダイヤモンドOAとはその費用負担の形態のことである。
+しかしながら、このような視点の違いの説明書くこれら同時に用いている場合があり、とくに詳しくない人々にとっては混乱を招いていると考えられる。
+この問題の整理としては、本誌216号「日本におけるオープンアクセス政策の概要と国際農林水産業研究センターの取り組み：即時オープンアクセスの実現へ向けて」により詳しい説明があるのであらためて一読いただきたい。
+
+|表 1|
+|視点|用例|
+|--|--|
+|経路|グリーン/ゴールド|
+|費用負担|ダイヤモンド/APC|
+|即時性|即時OA/エンバーゴ|
+|雑誌構造|フルOA/ハイブリッド|
+
+- さらに、FAIRという視点
+
+- 日本におけるオープンアクセス
+本章では、日本におけるオープンアクセスの動向について述べる。
+-- オープンアクセス加速化事業以前
+--- 科学技術基本計画/科学技術・イノベーション基本計画
+-- オープンアクセス加速化事業(2024)
+-- オープンサイエンスへの進展
+--- オープン・アンド・クローズ戦略
+--- OSモニター
+-- 見えてきた課題
+
+- 参照
+[1] https://ospolicyobservatory.uvic.ca/bbb/
+[2] https://www.budapestopenaccessinitiative.org/
+[3] https://www.budapestopenaccessinitiative.org/read/
