@@ -45,6 +45,8 @@
 - NII OSモニター
 -- https://osm.nii.ac.jp/
 -- https://current.ndl.go.jp/car/274539
+- OpenAIRE
+- OpenAlex/MAG
 
 ## 関連
 - FAIR
@@ -54,12 +56,12 @@
 日本におけるオープンアクセスの進展と課題
 
 - はじめに
-　まず、本稿については精査された事実ではなく、いくつかの事実に基づいた筆者の私見と認識されたい。本稿では、オープンアクセスの動きから始まり、日本におけるその進展的な動きとしてのオープンサイエンスの現状までの流れをまとめたい。
+　まず、本稿については精査された事実ではなく、いくつかの事実に基づいた筆者の私見と認識されたい。本稿では、オープンアクセスの動きから始まり、日本におけるその進展的な動きとしてFAIR活動およびオープンサイエンス活動までの流れをまとめたい。
 
 - 世界におけるオープンアクセスおよび関連の動向
 　世界的に見るオープンアクセスにかかるイベントは、本誌189号「Open Access 時代の図書館サービス」によくまとまっている。
-なかでも、オープンアクセスのコンセプトが明確にされた声明としては Budapest Open Access Initiative がある。
-さらにこの後に2つの声明が発表され、これらを合わせて Three Defining Statements on Open Access [1]と言われている。さらに発展的な動きがG7科学技術大臣会合にも見られる。以下これらを簡単に紹介する。
+なかでも、オープンアクセスのコンセプトが明確にされた声明としては Budapest Open Access Initiative [1]がある。
+さらにこの後に2つの声明が発表され、これらを合わせて Three Defining Statements on Open Access [2]と言われている。さらに発展的な動きがG7科学技術大臣会合にも見られる。以下これらを簡単に紹介する。
 
 -- Budapest Open Access Initiative (2002)
 -- Bethesda Statement on Open Access Publishing (2003)
@@ -97,6 +99,6 @@
 -- 見えてきた課題
 
 - 参照
-[1] https://ospolicyobservatory.uvic.ca/bbb/
-[2] https://www.budapestopenaccessinitiative.org/
+[2] https://ospolicyobservatory.uvic.ca/bbb/
+[1] https://www.budapestopenaccessinitiative.org/
 [3] https://www.budapestopenaccessinitiative.org/read/
